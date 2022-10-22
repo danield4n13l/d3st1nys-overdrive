@@ -17,6 +17,7 @@ This is a client I made for myself because I was tired of premade clients made p
 * Better Third Person 1.8.1
 * BoatHud 1.1.1
 * Borderless Mining 1.1.5+1.19
+* Camera Utils 1.19.2-1.0.2
 * Cardinal Ice Boats 1.2.3
 * Chat Heads 0.7.1
 * Chunky 1.3.38
