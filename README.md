@@ -2,9 +2,9 @@
 
 This is a client I made for myself because I was tired of premade clients made pay-to-win and not customizable.
 
-## All credit goes to the responsible mod creators. Thanks for your amazing work!
+## All credit goes to the responsible mod creators. Thanks for your amazing work
 
-### List of mods goes:
+### List of mods goes
 
 * AdvancementInfo 1.19.1-fabric0.58.5-1.3.1
 * Amecs 1.3.8+mc.1.19-rc2
@@ -17,7 +17,6 @@ This is a client I made for myself because I was tired of premade clients made p
 * Better Third Person 1.8.1
 * BoatHud 1.1.1
 * Borderless Mining 1.1.5+1.19
-* Camera Utils 1.19.2-1.0.2
 * Cardinal Ice Boats 1.2.3
 * Chat Heads 0.7.1
 * Chunky 1.3.38
@@ -83,7 +82,8 @@ This is a client I made for myself because I was tired of premade clients made p
 * YetAnotherConfigLib 1.6.0
 * Zoomify 2.8.0
 
-### To Be Added:
+### To Be Added
 
-- ModManager - a manager using the Modrinth-database to update and download additional mods in-game.
-- BetterThirdPerson - Unlocks the 3rd person perspective, allowing anyone to freely use the camera while moving in 8 directions.
+* ModManager - a manager using the Modrinth-database to update and download additional mods in-game.
+* BetterThirdPerson - Unlocks the 3rd person perspective, allowing anyone to freely use the camera while moving in 8 directions.
+* WMCH - Where's My Chat History? is a mod that retains chat info through various sessions. It is highly configurable and takes up almost zero resources.

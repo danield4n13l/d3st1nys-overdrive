@@ -1,0 +1,13 @@
+name = "d3st1ny's Overdrive Client"
+author = "d3st1nyOff"
+version = "1.02"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d7b91c60704bcb7751220c88dd9abb28dc0e3197add3eb037441d7c6a269ee1"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.5-beta.10"

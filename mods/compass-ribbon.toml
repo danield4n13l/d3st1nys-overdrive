@@ -1,0 +1,14 @@
+name = "Compass Ribbon"
+filename = "cr-compass-ribbon-fabric-2.8.2+1.19.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Q5RehtT/versions/2.8.2+1.19.1/cr-compass-ribbon-fabric-2.8.2%2B1.19.1.jar"
+hash-format = "sha1"
+hash = "23b92b3b89ae24f3c589f8faf46bf237ba932b29"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "3Q5RehtT"
+version = "QkxpPkGy"

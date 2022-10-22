@@ -1,0 +1,1 @@
+packwiz init -r --author d3st1nyOff --modloader quilt --name "d3st1ny's Overdrive Client" $args
